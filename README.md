@@ -3,7 +3,7 @@ cpp mini project on student transport management system
 
 Team members
 
-Aakriti sharma
-Poorvi Gupta
-Baseer Fatima
+Aakriti sharma,
+Poorvi Gupta,
+Baseer Fatima,
 Novnnet Kour
