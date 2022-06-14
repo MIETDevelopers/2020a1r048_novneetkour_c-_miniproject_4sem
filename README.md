@@ -6,4 +6,4 @@ Team members
 Aakriti sharma,
 Poorvi Gupta,
 Baseer Fatima,
-Novnnet Kour
+Novneet Kour
